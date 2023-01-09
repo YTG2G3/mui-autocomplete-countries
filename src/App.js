@@ -37,7 +37,7 @@ function App() {
                         }}
                     />
                 )}
-                onChange={(e, v) => alert(v.name.official)}
+                onChange={(e, v) => alert(v.cca3)}
             />
         </div>
     );
